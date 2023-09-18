@@ -11,4 +11,10 @@ Links I used in this challenge:
 
     https://stackoverflow.com/questions/72323776/find-only-specific-key-from-mongodb-using-pymongo
 
-    
+    https://www.analyticsvidhya.com/blog/2020/08/query-a-mongodb-database-using-pymongo/
+
+    https://www.mongodb.com/docs/manual/reference/method/db.collection.countDocuments/
+
+    https://interactivechaos.com/es/python/function/reignorecase
+
+    https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/
